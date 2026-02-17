@@ -2,7 +2,7 @@
 浮世離れした神秘的空間の中で、空を渡り歩くゲーム
 
 ## 紹介動画
-<video src="./introduce.mp4" controls="true"></video>
+https://github.com/user-attachments/assets/7ff4b9ee-03b3-4e13-aa32-57d88c46ca17
 
 ## PC要件
 - GeForce RTX 3060以上を積んだWindows 11 ([詳細](https://www.meta.com/ja-jp/help/quest/140991407990979/?srsltid=AfmBOoqF9VlHjZmHVSvRZdeUc-f-vo0SsNUAEU5URLhZp18JUUv-XNLG)) (※Mac対応してません！)
@@ -15,4 +15,4 @@
 - 実験用なのでパッケージ化の予定はありません
 
 ## 禁止事項
-- 再配布はご遠慮ください
+- 再配布は禁止です
